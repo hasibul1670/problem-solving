@@ -1,12 +1,12 @@
-# Problem-Solving-challenge
 # problem-solving
 
-#### Algorithms
+### Algorithms
   - Searching
     - Binary Search
     - Linear Search
+    - 
 
-#### Data Structure
+### Data Structures
 
  - Stack
    - Push,Pop,Peek Operations in Stack
