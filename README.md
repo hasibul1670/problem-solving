@@ -9,7 +9,7 @@
 #### Data Structure
 
  - Stack
-  - Push,Pop,Peek Operations in Stack
-  - Sort a Stack
-  - 
+   - Push,Pop,Peek Operations in Stack
+   - Sort a Stack
+   - 
 
