@@ -19,4 +19,4 @@ const binarySearch = (arr, target) => {
 
 // Test
 const arr = [2, 4, 6, 8, 10, 12, 14, 16, 19];
-console.log(binarySearch(arr, 16)); // Output: 5
+console.log(binarySearch(arr, 4)); // Output: 5
